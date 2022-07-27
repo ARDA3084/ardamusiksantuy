@@ -1,4 +1,4 @@
- name: freerdp6hours
+ name: amazonRDP
 
 on: workflow_dispatch
 
